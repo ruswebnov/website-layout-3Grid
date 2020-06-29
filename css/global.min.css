@@ -1,0 +1,1 @@
+*,*::before,*::after{-webkit-box-sizing:border-box;box-sizing:border-box}*{margin:0;padding:0}html{scroll-behavior:smooth}html,body{overflow-x:hidden}a{text-decoration:none;color:inherit}ul,li{list-style:none;padding:0;margin:0}body{font-family:'Light';font-size:18px;color:#fff}.container{margin:0 auto;padding:0 15px;max-width:1500px;width:100%}
